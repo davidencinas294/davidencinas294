@@ -1,6 +1,6 @@
 ## Proyectos 
 ### IES Alonso de Ercilla
-<src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABp_WfqgoTilM-BQymiPtBfkc679QzH_gLA&s">
+## <src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABp_WfqgoTilM-BQymiPtBfkc679QzH_gLA&s">
 <!--
 **davidencinas294/davidencinas294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
